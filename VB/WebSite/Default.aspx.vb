@@ -10,7 +10,7 @@ Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
 Imports System.Collections.Generic
 Imports DevExpress.Data.Filtering.Helpers
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 
 Partial Public Class _Default
